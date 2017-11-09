@@ -8,7 +8,10 @@
     <color name="kırmızı">#ec1f1b</color>
     <color name="mavi">#4556ea</color>
     <color name="yeşil">#4de931</color>
-    <color name="turuncu">#f58640</color>
+    <color name="turuncu">#ef7a30</color>
+
+    //Change
+
     <color name="sarı">#fcf125</color>
     <color name="siyah">#080808</color>
     <color name="beyaz">#fdfbfd</color>
